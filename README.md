@@ -1,5 +1,5 @@
 # Vivatech_hackathon_2018
-Challenge: 
+24 hours challenge: 
 "Leboncoin is challenging you hackers to develop a marketplace of the future that emphasizes and improves the relationship between the buyer and the seller. Feel free to use innovative technologies like augmented reality, IoT and artificial intelligence."
 
 Description of our solution: 
